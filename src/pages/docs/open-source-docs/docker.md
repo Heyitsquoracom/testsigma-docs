@@ -3,7 +3,7 @@ title: "Testsigma Docker Setup"
 page_title: "Testsigma Community Edition Docker Setup"
 metadesc: "Learn how to set up Testsigma Server and MySQL as docker containers using Docker Compose | Easiest way to set up Testsigma on your local machines"
 noindex: false
-order: 28.3
+order: 29.3
 page_id: "Testsigma Docker Setup"
 warning: false
 contextual_links:
@@ -165,6 +165,5 @@ Login to https://local.testsigmaos.com/ui and follow the steps mentioned here([S
 4. [Get Started with Automating iOS Apps](https://testsigma.com/tutorials/getting-started/automate-ios-applications/)
 5. [How to automate tests for Android Apps using local devices](https://testsigma.com/tutorials/test-cases/mobile-apps/build-tests-using-local-android-devices/)
 6. [How to automate tests for iOS Apps using local devices](https://testsigma.com/tutorials/test-cases/mobile-apps/build-tests-using-local-ios-devices/)
-
 
 ---
